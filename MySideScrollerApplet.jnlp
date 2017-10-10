@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" codebase="" href="">
+      <information>
+         <title>MySideScroller</title>
+      </information>
+      <resources>
+         <!-- Application Resources -->
+         <j2se version="1.7+"
+            href="http://java.sun.com/products/autodl/j2se" />
+         <jar href="Game.jar" main="true" />
+      </resources>
+      <applet-desc
+         name="MySideScrollerApplet"
+         main-class="CryptoDragon.GameManager"
+         width="1200"
+         height="800">
+      </applet-desc>
+   <update check="background"/>
+</jnlp>
+

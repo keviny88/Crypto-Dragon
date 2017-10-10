@@ -1,0 +1,3 @@
+Permissions: sandbox
+Codebase: http://kevinyin.com/CryptoDragon/
+Application-Name: Game
